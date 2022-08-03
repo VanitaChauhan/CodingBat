@@ -1,3 +1,3 @@
-# CodingBat-Logic2
+# CodingBat
 
-These are the solutions of Logic 2 (Java) questions from CodingBat
+
